@@ -27,9 +27,10 @@ However, the organizers quickly noticed that the robot going second is at a disa
 
 ## Answers
 - -0.2847645  (correct to 3sf) - https://www.janestreet.com/puzzles/robot-tug-of-war-solution/
+  - Averaged using window 1000 increments wide. 2e3 games were played at each position on the discretised axis
 
 
 ## Imporvements next time
-- Implement in Java or C++ so runs faster and can set interval to >1e8 (100 million). This will achieve the required degree of accuracy
+- Implement in Java or C++ so runs faster and can set interval to >1e7 (10 million). This will achieve the required degree of accuracy
 
 
