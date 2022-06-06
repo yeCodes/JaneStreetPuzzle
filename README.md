@@ -31,6 +31,6 @@ However, the organizers quickly noticed that the robot going second is at a disa
 
 
 ## Improvements next time
-- Implement in Java or C++ so runs faster and can set interval to >1e7 (10 million). This will achieve the required degree of accuracy
+- Implement in Java or C++ so runs faster and can set interval to >1e7 (10 million). This will achieve the required degree of accuracy to 7sf.
 
 
