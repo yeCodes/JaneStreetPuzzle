@@ -30,7 +30,7 @@ However, the organizers quickly noticed that the robot going second is at a disa
   - Averaged using window 1000 increments wide. 2e3 games were played at each position on the discretised axis
 
 
-## Imporvements next time
+## Improvements next time
 - Implement in Java or C++ so runs faster and can set interval to >1e7 (10 million). This will achieve the required degree of accuracy
 
 
